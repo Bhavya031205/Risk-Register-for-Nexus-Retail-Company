@@ -176,5 +176,3 @@ Potential enhancements include:
 **Mr. Bhavya Damani**
 AI & DS Student,
 Cybersecurity Honours Specialization
-
-*"Risk comes from not knowing what you're doing."* — Warren Buffett
